@@ -46,7 +46,7 @@ document/
 └── datasets/
     └── cardiology/
         └── UCI/
-            └── [HeartDiseasePredictionDataset.csv](https://github.com/RM559712/2s_fase1_cap1/tree/main/document/datasets/cardiology/UCI/HeartDiseasePredictionDataset.csv)
+            └── HeartDiseasePredictionDataset.csv
 ```
 
 > ### Dados Textuais (NLP)
