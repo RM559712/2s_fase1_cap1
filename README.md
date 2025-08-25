@@ -39,7 +39,7 @@ Os dados utilizados foram obtidos por meio do serviço OpenDataBay e podem ser v
 
 Para fins informativos, a <strong>UCI</strong> disponibiliza uma [página oficial](https://archive.ics.uci.edu/dataset/45/heart+disease) com informações detalhadas sobre o dataset, incluindo os responsáveis pela criação e manutenção, descrições das variáveis e documentação adicional. 
 
-Para organização e documentação do projeto, foi criado um diretório específico para armazenamento dos datasets utilizados, cuja estrutura inicial está definida como:
+Para organização e documentação do projeto, foi criado um diretório específico para armazenamento dos datasets utilizados em seus formatos originais, cuja estrutura inicial está definida como:
 
 ```
 document/
