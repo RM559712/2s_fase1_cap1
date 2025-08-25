@@ -51,6 +51,16 @@ document/
 
 A estrutura acima prevê a expansão tanto para outros datasets relacionados à exames cardiológicos como também para outros tipos de exames.
 
+### Variáveis relevantes para análise dos exames cardiológicos
+
+Analisando os parâmetros disponibilizados no dataset mencionado acima, concluímos que as variáveis mais relevantes para a análise são:
+
+- Parâmetros `cp` e `exang` pois refletem o estado imediato do paciente;
+- Parâmetros `trestbps` e `chol` pois ajudam a prever os riscos e guiar em possíveis intervenções;
+- Parâmetro `thalach` pois demonstra como o coração responde mediante à esforço;
+- Parâmetro `age` pois os riscos de doenças cardíacas aumentam com a idade, já que pessoas mais velhas têm maior probabilidade de eventos cardiovasculares;
+- Parâmetro `sex` pois homens e mulheres podem apresentar padrões diferentes de doença cardíaca. Homens têm maior incidência em idade mais jovem e mulheres têm sintomas podem ser atípicos, com risco aumentando após a menopausa;
+
 > ### Dados Textuais (NLP)
 
 
