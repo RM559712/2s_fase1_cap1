@@ -49,6 +49,8 @@ document/
             └── HeartDiseasePredictionDataset.csv
 ```
 
+A estrutura acima prevê a expansão tanto para outros datasets relacionados à exames cardiológicos como também para outros tipos de exames.
+
 > ### Dados Textuais (NLP)
 
 
