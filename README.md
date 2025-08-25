@@ -78,6 +78,8 @@ Destacamos que um dos principais motivos pela escolha desses conteúdos é a riq
 - <strong>Extração de Sintomas e Sinais Clínicos</strong>: Os textos descrevem sintomas, sinais e condições clínicas, como hipertensão, dispneia e edema;
 - <strong>Classificação de Tópicos</strong>: Os conteúdos estão organizados em seções claras, como diagnóstico, tratamento, fatores de risco e estratégias de cuidado;
 
+### Relevância
+
 Com todas essas informações alinhadas em análises preditivas, concluímos que o projeto poderá atuar de forma automatizada em diferentes frentes, como por exemplo:
 
 - Apoio em decisões médicas, fornecendo recomendações baseadas em evidências e auxiliando médicos e equipes de saúde na escolha de tratamentos mais adequados;
@@ -86,7 +88,20 @@ Com todas essas informações alinhadas em análises preditivas, concluímos que
 
 > ### Dados Visuais (VC)
 
+Por se tratarem de imagens detalhadas amplamente utilizadas em diagnósticos cardiológicos, essas bases de dados possibilitam a aplicação de algoritmos de visão computacional capazes de identificar padrões e anomalias de forma automatizada. Isso permite não apenas o aprimoramento e eficiência dos diagnósticos, mas também o fortalecimento e a personalização do cuidado em saúde, alinhando-se às necessidades de inovação no setor médico.
 
+Alguns pontos destacados nesse aperfeiçoamento:
+
+- Apoiar o diagnóstico precoce, reduzindo o tempo de interpretação médica e aumentando a assertividade;
+- Monitorar pacientes, permitindo acompanhar a evolução clínica por meio da comparação automática de exames anteriores;
+- Auxiliar hospitais e clínicas a lidarem com grandes volumes de exames sem comprometer a qualidade da análise.
+
+Abaixo estão pontuados os diretórios contendo as imagens de acordo com seus tipos:
+
+- <strong>ECG</strong>: podem ser visualizadas clicando [aqui](https://github.com/RM559712/2s_fase1_cap1/tree/main/assets/images/cardiology/ecg);
+- <strong>Raio-X Angiográficas</strong>: podem ser visualizadas clicando [aqui](https://github.com/RM559712/2s_fase1_cap1/tree/main/assets/images/cardiology/x-ray-angiography);
+
+As imagens foram obtidas através dos repositórios [X-Ray Angiography Images and SYNTAX-Score Dataset](https://figshare.com/articles/dataset/X-Ray_Angiography_Images_and_SYNTAX-Score_Dataset/25801447?utm_source=chatgpt.com) e [ECG Images dataset of Cardiac Patients](https://data.mendeley.com/datasets/gwbz3fsgp8/2).
 
 ## 📁 Estrutura de pastas
 
