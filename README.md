@@ -29,7 +29,33 @@ Grupo de número <b>[...]</b> formado pelos integrantes mencionados abaixo.
 
 <b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=494570&c=13283
 
-[...]
+> ### Dados Numéricos (IoT)
+
+Após análises sobre qual a origem dos dados para esse projeto, decidimos utilizar dados reais provenientes de repositórios confiáveis. Acreditamos que as chances do projeto obter maior sucesso utilizando dados reais serão maiores, além do fato de podermos contribuir diretamente com orgãos e empresas a partir de análises em pacientes reais.
+
+Fizemos diversas pesquisas de mercado até chegarmos na <strong>UCI</strong> (<i>University of California, Irvine</i>). Por se tratar de uma universidade pública nos Estados Unidos muito reconhecida por suas contribuições na área de Ciência da Computação e Aprendizado de Máquina, acreditamos que os dados disponibilizados atenderão plenamente nessa fase do projeto. Trata-se de um repositório considerado como uma das fontes mais bem curadas, confiáveis e acessíveis para projetos que utilizam datasets científicos.
+
+Os dados foram obtidos através do serviço <strong>Opendatabay</strong>, podendo ser visualizados diretamente no repositório <strong>UCI Machine Learning Repository</strong> clicando [aqui](https://www.opendatabay.com/data/healthcare/f5d2b271-9092-470a-9c4d-6110959f4d99). O dataset utilizado é o <strong>Cleveland Heart Disease Dataset</strong>, na qual foi criado originalmente pelo <strong>Cleveland Clinic Foundation</strong> e faz parte de um seleto grupo de datasets, amplamente utilizado na literatura científica para o estudo e predição de doenças cardiovasculares. Esse dataset fornece variáveis clínicas fundamentais, como pressão arterial, colesterol, sintomas e frequência cardíaca, que são extremamente relevantes para aplicações de Inteligência Artificial em saúde.
+
+Para fins informativos, a <strong>UCI</strong> disponibiliza uma [página](https://archive.ics.uci.edu/dataset/45/heart+disease) em seu site contendo diversas informações, como por exemplo o nome dos criadores ou responsáveis pela manutenção dos dados, informações referentes ao dataset, etc.
+
+Para fins de documentação do projeto, foi criado um diretório para armazenamento de datasets utilizados no projeto. Inicialmente a estrutura está definida como:
+
+```
+document/
+└── datasets/
+    └── cardiology/
+        └── UCI/
+            └── [HeartDiseasePredictionDataset.csv](https://github.com/RM559712/2s_fase1_cap1/tree/main/document/datasets/cardiology/UCI/HeartDiseasePredictionDataset.csv)
+```
+
+> ### Dados Textuais (NLP)
+
+
+
+> ### Dados Visuais (VC)
+
+
 
 ## 📁 Estrutura de pastas
 
