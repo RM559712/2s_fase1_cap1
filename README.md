@@ -63,7 +63,26 @@ Analisando os parâmetros disponibilizados no dataset mencionado acima, concluí
 
 > ### Dados Textuais (NLP)
 
+Existem diversos conteúdos que exploram doenças cardiovasculares tanto no Brasil como em outros países. Optamos em escolher conteúdos focados no cenário nacional pois, inicialmente, nossa intenção é ajudar a população brasileira. Sendo assim, selecionamos alguns conteúdos provenientes da <strong>[Biblioteca Virtual em Saúde](https://bvsms.saude.gov.br/)</strong>, também conhecida como <strong>BVS</strong>.
 
+De acordo com o site da Biblioteca Virtual em Saúde do Ministério da Saúde, "<i>a Biblioteca Virtual em Saúde do Ministério da Saúde – BVS MS, disponível na internet desde 2001, é responsável pela veiculação das publicações bibliográficas produzidas pelo Ministério da Saúde, bem como informações gerais na área de ciências da saúde. Como as publicações do MS não são comercializadas, a BVS MS torna-se o principal canal de acesso para essa produção.</i>" (<i>[link](https://bvsms.saude.gov.br/o-que-e-a-bvs-ms/)</i>).
+
+Abaixo estão pontuados os conteúdos que serão utilizados nas análises para exploração:
+
+- <strong>Hipertensão Arterial Sistêmica</strong>: pode ser visualizado clicando [aqui](https://github.com/RM559712/2s_fase1_cap1/tree/main/document/nlp/cardiology/bvsms/HipertensaoArterialSistemica.pdf);
+- <strong>Protocolos Clínicos e Diretrizes Terapêuticas - Vol. 3</strong>: pode ser visualizado clicando [aqui](https://github.com/RM559712/2s_fase1_cap1/tree/main/document/nlp/cardiology/bvsms/ProtocolosClinicosDiretrizesTerapeuticas-Vol.3.pdf);
+
+Destacamos que um dos principais motivos pela escolha desses conteúdos é a riqueza de informações detalhadas sobre diagnóstico, tratamento, prevenção e acompanhamento de pacientes com doenças cardiovasculares. Além disso, abaixo estão pontuados como os dados desses conteúdos poderão contribuir na análise NLP.
+
+- <strong>Análise de Sentimentos</strong>: Ambos os textos contêm recomendações e orientações médicas que transmitem diferentes níveis de urgência ou cautela;
+- <strong>Extração de Sintomas e Sinais Clínicos</strong>: Os textos descrevem sintomas, sinais e condições clínicas, como hipertensão, dispneia e edema;
+- <strong>Classificação de Tópicos</strong>: Os conteúdos estão organizados em seções claras, como diagnóstico, tratamento, fatores de risco e estratégias de cuidado;
+
+Com todas essas informações alinhadas em análises preditivas, concluímos que o projeto poderá atuar de forma automatizada em diferentes frentes, como por exemplo:
+
+- Apoio em decisões médicas, fornecendo recomendações baseadas em evidências e auxiliando médicos e equipes de saúde na escolha de tratamentos mais adequados;
+- Diagnósticos automatizados, auxiliando na identificação de pacientes em risco e permitindo intervenções precoces;
+- Eficácia em tratamentos, garantindo que práticas clínicas estejam alinhadas com recomendações oficiais de acordo com os conteúdos selecionados;
 
 > ### Dados Visuais (VC)
 
