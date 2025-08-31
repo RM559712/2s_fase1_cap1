@@ -10,7 +10,7 @@
 
 ## 👨‍👩 Grupo
 
-Grupo de número <b>[...]</b> formado pelos integrantes mencionados abaixo.
+Grupo de número <b>37</b> formado pelos integrantes mencionados abaixo.
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/cirohenrique/">Ciro Henrique</a> ( <i>RM559040</i> )
@@ -140,4 +140,4 @@ Como se trata de uma versão em formato <strong>Jupyter Notebook</strong>, para 
 
 ## 📋 Licença
 
-Desenvolvido pelo Grupo [...] para o projeto da fase 1 (<i>Cap 1 - Batimentos de Dados – Mapeando o Coração Moderno</i>) da <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a>. Está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+Desenvolvido pelo Grupo 37 para o projeto da fase 1 (<i>Cap 1 - Batimentos de Dados – Mapeando o Coração Moderno</i>) da <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a>. Está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
