@@ -103,7 +103,7 @@ Abaixo estão pontuados os diretórios contendo as imagens de acordo com seus ti
 
 As imagens foram obtidas através dos repositórios [X-Ray Angiography Images and SYNTAX-Score Dataset](https://figshare.com/articles/dataset/X-Ray_Angiography_Images_and_SYNTAX-Score_Dataset/25801447?utm_source=chatgpt.com) e [ECG Images dataset of Cardiac Patients](https://data.mendeley.com/datasets/gwbz3fsgp8/2).
 
-## 📁 Estrutura de pastas
+<!--## 📁 Estrutura de pastas
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
@@ -123,16 +123,16 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 7. <b>README.md</b>: Documentação do projeto em formato markdown.
 
-<i><strong>Importante</strong>: A estrutura de pastas foi mantida neste formato para atender ao padrão de entrega dos projetos.</i>
+<i><strong>Importante</strong>: A estrutura de pastas foi mantida neste formato para atender ao padrão de entrega dos projetos.</i>-->
 
-## 🔧 Como executar o código
+<!--## 🔧 Como executar o código
 
 Como se trata de uma versão em formato <strong>Jupyter Notebook</strong>, para execução das funcionalidades, os seguintes passos devem ser seguidos:
 
 1. Utilizando o prompt de comando, acesse o diretório `.../s2_fase1_cap1/src` de acordo com o local de armazenamento em seu computador;
 2. Execute a linha de comando `jupyter notebook` para inicializar o <strong>Jupyter Notebook</strong> a partir do diretório acessado;
 3. Após a inicialização, uma nova aba será aberta em seu browser. Clique no arquivo `cnn.ipynb` para que seja carregado em outra aba do browser;
-4. Selecione as células que deseja executar e clique no ícone "Run this cell and advance (Shift+Enter)" para executar os processos;
+4. Selecione as células que deseja executar e clique no ícone "Run this cell and advance (Shift+Enter)" para executar os processos;-->
 
 ## 🗃 Histórico de lançamentos
 
