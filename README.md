@@ -90,7 +90,7 @@ Com todas essas informações alinhadas em análises preditivas, concluímos que
 
 Por se tratarem de imagens detalhadas amplamente utilizadas em diagnósticos cardiológicos, essas bases de dados possibilitam a aplicação de algoritmos de visão computacional capazes de identificar padrões e anomalias de forma automatizada. Isso permite não apenas o aprimoramento e eficiência dos diagnósticos, mas também o fortalecimento e a personalização do cuidado em saúde, alinhando-se às necessidades de inovação no setor médico.
 
-Alguns pontos destacados nesse aperfeiçoamento:
+Alguns pontos destacados neste aperfeiçoamento:
 
 - Apoiar o diagnóstico precoce, reduzindo o tempo de interpretação médica e aumentando a assertividade;
 - Monitorar pacientes, permitindo acompanhar a evolução clínica por meio da comparação automática de exames anteriores;
